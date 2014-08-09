@@ -1,0 +1,5 @@
+name: CombatLog
+main: net.Snicktrix.CombatLog.CombatLog
+author: Snicktrix
+version: 1.0
+description: Prevent Combat Logging scums!
